@@ -81,3 +81,7 @@ models/*.pt
 # Data
 data/raw/
 data/processed/
+
+
+#tests
+.pytest_cache
